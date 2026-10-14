@@ -15,4 +15,5 @@ operation = input("Enter the operation: ")
 y = int(input("Enter The second number "))
 
 if operation == "+":
-    add()
+    ans = add(x, y)
+    print(f"The addition is {ans}")
