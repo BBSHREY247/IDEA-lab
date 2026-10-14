@@ -1,0 +1,5 @@
+1. what is code documentation and why is it important in programming language 
+2. what are the different types of commands used in C, C++, and Python
+3. how does documentation help in maintaning and debugging in a program 
+4. name any 2 programming application used for writing and documenting C, C++, Python
+5. Difference between in-inline comments and block comments 
